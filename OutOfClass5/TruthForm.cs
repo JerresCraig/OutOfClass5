@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace OutOfClass5
 {
-    public partial class Form1 : Form
+    public partial class TruthForm : Form
     {
-        public Form1()
+        public TruthForm()
         {
             InitializeComponent();
         }
